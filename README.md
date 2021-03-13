@@ -6,6 +6,17 @@ Instalar os seguintes programas:
 - Node.js 
 - Newman
 
+### API
+
+* POST  - Criar quadro
+* GET - Consultar quadro inválido
+* POST - Criar Lista ToDo
+* POST - Criar Lista Done
+* POST - Criar Cartão na lista ToDo
+* PUT - Mover Cartão para lista Done
+* DEL - Deletar o Quadro
+* GET - Redefinir Parâmetros
+
 ### Execução dos testes:
 
 Baixar o projeto na Raiz c:
