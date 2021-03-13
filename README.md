@@ -30,6 +30,8 @@ Para abrir o relatório informar no final o comando **-r htmlextra** ficando da 
 
 o arquivo gerado ficara no diretorio Ex: C:\Avaliacao\avaliacao_postman\newman\Desafio Trello-2021-03-13-03-55-19-591-0.html
 
+Abaixo o resultado do teste.
+
 <img src ="https://github.com/wilkeralessandro/avaliacao_postman/blob/main/newman/Print_Relatorio_1.jpg">
 
 <img src ="https://github.com/wilkeralessandro/avaliacao_postman/blob/main/newman/Print_Relatorio_2.jpg">
